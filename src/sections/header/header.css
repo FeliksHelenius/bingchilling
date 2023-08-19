@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    flex: 1;
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
+    color: white;
+};
+
+.logo {
+    align-content: center;
+    font-size: 3rem;
+};
+
+.buttons1 {
+    opacity: 0.8;
+    font-weight: bold;
+    font-size: 9rem;
+};
